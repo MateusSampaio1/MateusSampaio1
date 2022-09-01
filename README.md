@@ -22,10 +22,11 @@
 <a href="https://discord.gg/Mateus#2600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mateus#2600" height="30" width="40" /></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=MateusSampaio1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MateusSampaio1&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSampaio1&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">:bar_chart: Métricas GitHub:</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=MateusSampaio1&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MateusSampaio1&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSampaio1&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateussampaio1&label=Profile%20views&color=0e75b6&style=flat" alt="mateussampaio1" /> </p>
 
 <!--
