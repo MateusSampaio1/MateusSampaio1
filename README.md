@@ -18,7 +18,7 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mateus sampaio de oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus sampaio de oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/MateusSampaio1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus sampaio" height="30" width="40" /></a>
 <a href="https://discord.gg/Mateus#2600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mateus#2600" height="30" width="40" /></a>
 </p>
 
