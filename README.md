@@ -8,7 +8,7 @@
 
 - 📫 Como me contactar **mateus.s.oliveira@outlook.com**
 
-- 📄 Conheça minhas habilidades e experiências em: [https://www.linkedin.com/in/mateus-sampaio-de-oliveira-21bb86236/](https://www.linkedin.com/in/mateus-sampaio-de-oliveira-21bb86236/)
+- 📄 Conheça minhas habilidades e experiências no [Linkedin](https://www.linkedin.com/in/MateusSampaio1/)
 
 - ⚡ Curiosidades sobre mim: **Gosto de realizar atividades ao ar livre como corrida e caminhada.**
 
