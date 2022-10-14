@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Me chamo Mateus.</h1>
-<h3 align="center">Administrador e apaixonado por dados.</h3>
+<h3 align="center">Administrador e entusiasta na área de dados.</h3>
 
 
-- 🌱 Atualmente estou empenhado em aprimorar meus conhecimentos de **MySQL e outros modelos de Machine Learning**
+- 🌱 Atualmente estou empenhado em aprimorar meus conhecimentos em **Análise de dados e Machine Learning**
 
 - 👨‍💻 Todos os meu projetos podem ser encontrados em: [https://github.com/MateusSampaio1?tab=repositories](https://github.com/MateusSampaio1?tab=repositories)
 
